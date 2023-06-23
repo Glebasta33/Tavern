@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Tavern-jvm-1.0-SNAPSHOT">
-    <output-path>$PROJECT_DIR$/build/libs</output-path>
-    <root id="archive" name="Tavern-jvm-1.0-SNAPSHOT.jar">
-      <element id="module-output" name="Tavern.jvmMain" />
-    </root>
-  </artifact>
-</component>
